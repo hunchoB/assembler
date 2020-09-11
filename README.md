@@ -1,2 +1,2 @@
 # assembler
-assembler programm to lab
+assembler programm for lab
